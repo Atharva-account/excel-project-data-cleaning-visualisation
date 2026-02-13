@@ -14,11 +14,15 @@ This project analyzes road accident data to identify patterns, risk factors, and
  - Understand accident trends and severity distribution
  - Identify high-risk areas and contributing factors
  - Support data-driven road safety improvements
+   
 <br>
+
 ## Key Problem
 Most accidents occur in urban areas and under normal driving conditions.
 Serious and slight injuries are frequent, indicating systemic traffic safety issues.
+
 <br>
+
 ## Proposed Solution
  - Improve traffic control and road design in high-risk areas
  - Strengthen enforcement and driver awareness programs
